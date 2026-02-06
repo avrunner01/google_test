@@ -4,3 +4,4 @@
 // GOOGLE_CLIENT_SECRET= secret from supabase
 npm install
 node app.js
+v
